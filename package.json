@@ -1,7 +1,7 @@
 {
-  "name": "testing_bot_swi_4",
+  "name": "testing_bot_swi_5",
   "version": "1.0.0",
-  "description": "testing_bot_swi_4",
+  "description": "testing_bot_swi_5",
   "main": "src/index.js",
   "types": "typings/index.d.ts",
   "author": "taritmahato",
