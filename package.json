@@ -1,0 +1,23 @@
+{
+  "name": "testing_bot_swi_4",
+  "version": "1.0.0",
+  "description": "testing_bot_swi_4",
+  "main": "src/index.js",
+  "types": "typings/index.d.ts",
+  "author": "taritmahato",
+  "type": "module",
+  "license": "MIT",
+  "keywords": [],
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.11",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "ethers": "^5.5.2",
+    "http": "^0.0.1-security",
+    "log-timestamp": "^0.3.0"
+  }
+}
