@@ -1,15 +1,15 @@
 {
-  "name": "testing_bot_swi_5",
+  "name": "testing_bot_swi_6",
   "version": "1.0.0",
-  "description": "testing_bot_swi_5",
-  "main": "src/index.js",
-  "types": "typings/index.d.ts",
-  "author": "taritmahato",
-  "type": "module",
+  "description": "testing_bot_swi_6",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "mahatotarit",
   "license": "MIT",
   "keywords": [],
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "npm run build"
   },
   "devDependencies": {
     "@types/node": "^16.11.11",
